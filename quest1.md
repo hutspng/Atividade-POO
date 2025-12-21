@@ -1,6 +1,6 @@
 # 1 O que é um vetor em C++? Explique com suas palavras.
 
-Um vetor é uma estrutura de dados que acessa valores dentro de uma array seja ele dinâmico os estático por meio de indices
+Um vetor é uma estrutura de dados que acessa valores dentro de uma array (seja ele dinâmico ou estático) por meio de indices
 
 # 2 Exemplo
 
